@@ -14,7 +14,7 @@ This is a (brief) course on Mathematica for physics students I did at Universit√
   - Solve linear set of equations with LinearSolve.
   - A simple framework for Special Relativity.
   - Eigenvectors and Eigenvalues. Inertia Tensor for non-trivial objects.
-  - Eigenmodes of the multidim. differential equations.The Heat equation.
+  - Eigenmodes in multidim. differential equations.The Heat equation.
 3. LESSON 3 - Extras
   - Random numbers and a simple MC algorithm.
   - Databases and Packages in Mathematica. Our first Mathematica Package.
