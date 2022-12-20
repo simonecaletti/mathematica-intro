@@ -1,6 +1,6 @@
 # Crash course on Mathematica for Graduate Students
 
-This is a (brief) course on Mathematica for physics students I did at Università di Genova in 2021 and 2022. The course is structured as three frontal lessons of 2h each one plus some exercises.
+This is a (brief) course on Mathematica for physics students I did at Università di Genova in 2021 and 2022. The course is divided in three frontal lessons of 2h each one plus some exercises.
 
 ### Program
 
